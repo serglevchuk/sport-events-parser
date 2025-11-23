@@ -1,0 +1,13 @@
+{
+  "name": "sport-events-parser",
+  "type": "module",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "build": "node parser.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
