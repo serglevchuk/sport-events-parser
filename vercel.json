@@ -1,3 +1,8 @@
 {
-  "outputDirectory": "public"
+  "outputDirectory": "public",
+  "functions": {
+    "*.js": {
+      "maxDuration": 60
+    }
+  }
 }
